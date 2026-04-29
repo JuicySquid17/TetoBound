@@ -2,4 +2,4 @@ You can patch your clean copy of EarthBound here: https://www.marcrobledo.com/Ro
 
 Sprites were created by WaluigiTheLagger on Discord <3
 
-Idea by johninnabox!?
+Idea by johninnabox!? (inspired by Unemployed by Mason C. Music)
